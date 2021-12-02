@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Libros"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:title="Agregar libros"/>
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Clientes"/>
+
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/ic_baseline_person_add_alt_1_24"
+        android:title="Agregar clientes"/>
+</menu>
